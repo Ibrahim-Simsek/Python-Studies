@@ -1,0 +1,1 @@
+QrCode.py isimli dosyayı vscode üzerinden açıp kodu çalıştırdığımızda "Otomatik-QrCode-Oluşturucu" adlı dosya içerisine bize ait qr kod oluşturur. Programımızın oluşturduğu qrCode taratıldığında bize içeriğini açacaktır verecektir.
